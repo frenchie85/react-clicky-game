@@ -3,7 +3,7 @@ import './Navbar.css';
 
 const Navbar = props => (
   <div className="navbar ">
-    <div>Volvo Memroy Game</div>
+    <div>Volvo Memory Game</div>
     <div className={props.navMsgColor}>{props.navMessage}</div>
     <div>
       Score: {props.score} <span className="pipe">|</span> Best Score: {props.highScore}
