@@ -22,6 +22,11 @@ Install the following dependencies listed in the *package.json* file:
 
 Once completed, you will see a *package.json* file in your local repo.
 
+### Step 3: Coding with REACTjs ###
+you create REACT elements (navbar, banner, container, footer) and use the function clickEvent.
+
+### Step 4: start the localhost ###
+In your bash Windows you type *npm start* which start automatically your web browser and then you can play. *(See illustration just below)*
 
 ## How it works ##
 
