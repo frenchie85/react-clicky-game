@@ -1,0 +1,17 @@
+.banner {
+    /* background-image: url('../../images/volvotruck7.png') !important; */
+    height: 250px;
+    margin: 0 !important;
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+    padding: 0 !important;
+    color: rgb(20, 191, 243);
+    font-weight: bold;
+    font-size: 30px;
+  }
+  
+  @media (min-width: 576px) {
+    .banner {
+      font-size: calc(10px + 14 * (100vw - 320px) / 800);
+    }
+  }
